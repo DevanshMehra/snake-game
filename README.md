@@ -1,3 +1,3 @@
-# Snake Bite 
+# Snake game
 
 Classic game written in Javascript 
